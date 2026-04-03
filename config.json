@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1A0D04",
+            "lang-select-color": "#E6C200",
+            "bg-light": "#2C1A0D",
+            "welcome-bonus-bg": "#0F1C3F",
+            "top-games-hover-fg": "#D81010",
+            "main-bg": "#21130A",
+            "text": "#EAE0D5",
+            "text-black": "#ffffff",
+            "table-head": "#1A2B56",
+            "text-head": "#ffffff",
+            "hero-title-text": "#FFFFFF",
+            "welcome-bonus-text": "#D8CFC4",
+            "yellow": "#1E488F",
+            "yellow-button": "#D81010",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#B58E30",
+            "casino-cards": "#3A2514",
+            "bonus-border-head": "#EAC117",
+            "bonus-border": "#4A3525",
+            "providers-back": "#110803",
+            "faq-label": "#452614",
+            "bg-footer": "#0D0602",
+            "copyright": "#8B7A6B",
+            "starColor": "#FFD700",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5699"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5700",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Pharaoh's Fortune Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5701",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Pharaoh's Fortune"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Pharaoh's Fortune",
+                    "title": "Pharaoh's Fortune Slot — Play IGT Egypt Game Online",
+                    "description": "Play Pharaoh's Fortune by IGT — an iconic Egypt-themed video slot with 10,000x max win, 6x free spins multiplier & pick-em bonus. Try demo or play for real money!",
+                    "canonical": "pharaohs-fortune-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5702",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "pharaohs-fortune-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5703"
+                },
+                "hero": {
+                    "title": "Pharaoh's Fortune Slot by IGT — Ancient Egypt Wins",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5704",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5705",
+                    "mobileImageSizeModifier": -10,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a legendary Egyptian-themed slot from one of the world's most trusted developers? Pharaoh's Fortune by IGT delivers medium-variance gameplay, a unique pick-em bonus, and guaranteed wins on every free spin. Here's what makes this iconic online slot stand out:",
+                    "items": [
+                        "Developed by IGT — one of the world's most awarded slot studios",
+                        "Max win up to 10,000x your stake, capped at $250,000",
+                        "Free Spins with multiplier up to 6x — guaranteed win every spin",
+                        "Pick-em bonus game: choose stone blocks for extra spins & multiplier",
+                        "RTP range 92.52%–96.52% across participating online casinos",
+                        "HTML5 technology — fully playable on desktop, mobile & tablet"
+                    ],
+                    "advantagesAfterText": "Join millions of players worldwide who have spun the iconic reels of Pharaoh's Fortune. Available at leading online casinos globally, with demo play accessible at any time — no registration required.",
+                    "knowMore": "Know more",
+                    "appTitle": "Pharaoh's Fortune App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5706",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Pharaoh's Fortune App",
+                    "mobileGooglePlayImageTitle": "Pharaoh's Fortune App",
+                    "mobileIosImageTitle": "Pharaoh's Fortune App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Pharaoh's Fortune by IGT",
+                        "description1": "Pharaoh's Fortune is one of IGT's most iconic video slots, born as a Las Vegas land-based hit before going online worldwide. We offer this legendary Egyptian-themed game with authentic gameplay, rich hieroglyphic symbols, and true-to-original bonus mechanics.",
+                        "items": [
+                            "Originally launched as a land-based slot in Las Vegas casinos",
+                            "Remastered and released as HTML5 online video slot by IGT",
+                            "Available in 28+ countries at top-rated online casinos",
+                            "Certified fair play with independently verified RTP 94.52%"
+                        ],
+                        "description2": "Pharaoh's Fortune operates on a certified RNG engine by IGT, ensuring every spin is provably fair and transparent. Our platform offers the game with its full verified RTP of 94.52%, powered by trusted HTML5 technology for seamless cross-device performance.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5707",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue to expand our slot portfolio with timeless classics like Pharaoh's Fortune alongside the latest IGT releases. Spin for real money or try the free demo — the choice is yours. Discover why this Egyptian adventure remains one of the most played slots globally."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Pharaoh's Fortune Gameplay & Bonus Features",
+                        "description": "<h2>Pharaoh's Fortune Slot — Full Gameplay Guide & Bonus Features<\/h2>\n\n<p>Pharaoh's Fortune by IGT is more than just an ancient Egypt-themed video slot — it is a masterclass in classic slot design combined with rewarding modern bonus mechanics. We are proud to offer this iconic spinning title that has captivated players in land-based Las Vegas casinos for decades and continues to draw real money wagers from online players across the globe. Built on a solid HTML5 engine, the game runs flawlessly across all devices, delivering the same immersive pharaoh experience whether you play on desktop, mobile, or tablet. With 5 reels, 3 rows, and 15 paylines, the base game layout is clean and accessible, making it an ideal choice for both newcomers to online slots and experienced high-rollers chasing the 10,000x maximum win potential.<\/p>\n\n<h3>Reel Layout, Symbols & Paytable<\/h3>\n\n<p>The visual design of Pharaoh's Fortune is steeped in authentic ancient Egyptian iconography. Every symbol on the reels draws from the rich mythology of the pharaohs — from the mighty gods Horus and Anubis to the sacred Scarab beetle, the mystical Isis, the regal Horse and Carriage, and the all-important Pyramid Wild. The wild symbol is by far the highest-paying icon on the grid: landing five Pyramid Wilds on a payline delivers a massive 666.66x your stake, making it the symbol every player watches for with each spin. The Scarab acts as the scatter symbol, paying out wins for just two matching scatters anywhere on the reels and triggering the lucrative Free Spins bonus when landed on reels 1, 2, and 3 simultaneously.<\/p>\n\n<p>Understanding the paytable is essential for any player looking to maximise their session. Here is the full paytable for five symbols on a payline at standard bet:<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #d92019;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">5x Pay<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Type<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #2c1605;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Pyramid Wild<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">666.66x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Wild<\/td>\n    <\/tr>\n    <tr style=\"background-color: #412411;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Scarab<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">50x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Scatter<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2c1605;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Horus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">66.66x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">High Value<\/td>\n    <\/tr>\n    <tr style=\"background-color: #412411;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Pharaoh<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">33.33x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">High Value<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2c1605;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Horse &amp; Carriage<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">26.66x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Mid Value<\/td>\n    <\/tr>\n    <tr style=\"background-color: #412411;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Anubis<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">26.66x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Mid Value<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2c1605;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Isis<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">13.33x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Low Value<\/td>\n    <\/tr>\n    <tr style=\"background-color: #412411;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Eye of Horus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">6.66x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Low Value<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Wild Symbol — The Pyramid That Pays<\/h3>\n\n<p>The Pyramid Wild is the single most important symbol in Pharaoh's Fortune, and understanding how it works can dramatically change your perception of this video slot. Not only does it substitute for all regular symbols on the reels to complete winning combinations, but it also pays out independently as the game's premium symbol — delivering 666.66x your stake for a five-of-a-kind landing on a payline. This effectively means the Wild functions as both a multiplier enhancer and a standalone jackpot symbol. During the Free Spins bonus, the Wild transforms into a Sphinx symbol with identical payout values, maintaining the 666.66x maximum single-symbol pay even in the bonus environment. For players targeting the biggest wins in a single spin during the base game, landing multiple wilds across active paylines offers the most consistent route to large payouts within the medium-volatility math model that IGT built this game around.<\/p>\n\n<h3>How Does the Pick-Em Bonus Game Work in Pharaoh's Fortune?<\/h3>\n\n<p>Before your Free Spins begin, you will enter a unique pick-em bonus stage that makes every bonus trigger feel different and exciting. On a screen filled with 30 stone blocks reminiscent of ancient Egyptian pyramid construction, you select blocks one by one to reveal your starting conditions for the upcoming Free Spins round.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>22 blocks contain extra free spins<\/strong> — each one adds additional spins to your starting total above the default of 3 free spins, building up your spin bank before the bonus round even begins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>5 blocks increase the multiplier<\/strong> — each multiplier block adds 1x to your base multiplier of 1x, with a theoretical maximum of 6x available if you are lucky enough to find all five multiplier blocks. A 6x multiplier combined with the 4,000x single-line win translates to the maximum per-spin payout of $250,000.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>3 blocks trigger immediate start<\/strong> — landing one of these \"Begin Bonus\" blocks ends the pick-em stage immediately, launching your Free Spins with whatever spins and multiplier you have accumulated up to that point.<\/li>\n<\/ul>\n\n<p>This pick-em mechanic is one of the most beloved aspects of the Pharaoh's Fortune experience among veteran slot enthusiasts. It introduces genuine player agency — or at least the thrilling illusion of it — into what is otherwise a standard free spins trigger. The anticipation of turning over each stone block, wondering whether it reveals a coveted multiplier increase or a fresh batch of spins, adds emotional depth to every bonus trigger that keeps players coming back for more Egyptian adventure.<\/p>\n\n<h3>Free Spins Bonus Round — Guaranteed Wins Await<\/h3>\n\n<p>Once the pick-em bonus game concludes, the reels transform into a fully new Free Spins environment with a different, hieroglyphic-heavy symbol set and an expanded payline count. During the Free Spins mode, the number of active ways to win increases from 15 to 20, giving you additional coverage across the reels and more opportunities for wins on every guaranteed spin. The highest-value regular symbol in the Free Spins round pays 20x your stake for five-of-a-kind, while the Sphinx Wild retains its 666.66x five-of-a-kind payout. One of the most player-friendly mechanics in the entire game is the guarantee that every free spin will produce at least one winning combination — a feature that genuinely distinguishes Pharaoh's Fortune from the majority of free spins rounds available in online slots today. On average, players can expect somewhere between 10 and 25 free spins per triggered session, depending on what was built up during the pick-em stage. With a 6x multiplier applied to every win, even modest symbol combinations can translate into payouts that feel remarkably substantial, particularly at higher bet levels.<\/p>\n\n<h3>Betting Range & Stakes<\/h3>\n\n<p>Pharaoh's Fortune accommodates a broad spectrum of players thanks to its flexible betting range. The minimum bet is set at $0.15 per spin, making it accessible to casual players and those playing on smaller bankrolls who still want to experience this iconic Egyptian slot machine. At the other end of the spectrum, high-rollers can wager up to $450 per spin, pushing the theoretical maximum win potential toward the $250,000 cap. For most regular online casino players, the sweet spot for bet sizing in a medium-variance game like this tends to fall somewhere in the $1.00–$5.00 range per spin, as this allows for a comfortable session length while keeping meaningful wins within reach during the bonus rounds. Remember that the 15 paylines in the base game are always active — there is no option to reduce the payline count, meaning your total stake is always spread across all 15 lines on every spin you take.<\/p>\n\n<h3>Mobile Compatibility & Platform Performance<\/h3>\n\n<p>Pharaoh's Fortune has been fully updated to HTML5 technology, ensuring smooth performance across all modern devices and operating systems. Whether you prefer to spin the reels on a Windows PC, macOS desktop, iOS iPhone or iPad, or any Android smartphone or tablet, the game loads instantly without requiring any additional downloads, plugins, or Flash software. The responsive design adapts elegantly to smaller screen sizes, keeping the iconic Egyptian imagery crisp and the bonus mechanics fully functional even on compact mobile displays. We are particularly proud to offer Pharaoh's Fortune as part of our mobile-first gaming library, ensuring that players who prefer gaming on the go receive the same immersive experience as those on desktop. The audio component — including the famous \"Walk Like an Egyptian\" background track that has become synonymous with this title in Las Vegas gaming culture — carries over fully to mobile, adding an extra layer of authenticity to every session.<\/p>\n\n<h3>Why Pharaoh's Fortune Remains a Global Fan Favourite<\/h3>\n\n<p>More than a decade after its original release, Pharaoh's Fortune continues to rank among the most played IGT titles at online casinos worldwide, with a particularly strong following in markets like the United Kingdom, Norway, Finland, and Canada. Its enduring popularity is rooted in a combination of recognisable land-based heritage, a genuinely engaging bonus structure, and the sort of medium-volatility math model that suits a wide range of playing styles. Unlike many Egypt-themed video slots that have flooded the online gambling market in recent years, Pharaoh's Fortune benefits from IGT's pedigree — a company with over 50 years of gaming industry experience and a reputation for delivering consistently fair, certified, and entertaining spinning experiences. Players who try the demo version of Pharaoh's Fortune frequently report converting to real money play almost immediately, drawn in by the authentic atmosphere, the pick-em bonus excitement, and the promise of that guaranteed-win free spins round that sets this Egyptian adventure apart from its competitors.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Pharaoh's Fortune RTP, Variance & Strategy Guide",
+                        "description": "<h2>Pharaoh's Fortune RTP, Volatility & How to Play Smart<\/h2>\n\n<p>Understanding the mathematics and strategic mechanics behind Pharaoh's Fortune by IGT is the key to getting the most out of every session you spend on this legendary Egyptian video slot. We want every player who spins the reels of Pharaoh's Fortune on our platform to be fully informed about how the game's return-to-player rate, variance profile, and betting structure interact — because knowledge is just as powerful as the pharaoh's legendary golden treasure. Whether you are a first-time player discovering this classic online slot for the first time, or a seasoned casino enthusiast who remembers feeding coins into the original land-based machine in Las Vegas, this comprehensive guide will give you everything you need to approach the game with confidence, clarity, and a solid understanding of your real money wagering experience.<\/p>\n\n<h3>What Is the RTP of Pharaoh's Fortune and Why Does It Matter?<\/h3>\n\n<p>The Return to Player (RTP) percentage of Pharaoh's Fortune is officially listed at 94.52% as the standard rate, with an RTP range of 92.52% to 96.52% available across different online casino configurations. RTP represents the theoretical percentage of all wagered money that the slot is expected to return to players over a statistically significant number of spins. In practical terms, an RTP of 94.52% means that for every $100 wagered over a long session, players can expect approximately $94.52 to be returned in the form of winnings — though of course actual session results will vary significantly due to the nature of random number generation. The higher RTP configurations of up to 96.52% are available at certain online casinos that have specifically selected this setting, which is worth checking when choosing where to play Pharaoh's Fortune for real money. We are transparent about the RTP settings available on our platform so players can always make fully informed decisions about their gaming sessions.<\/p>\n\n<h3>Medium Variance — The Sweet Spot for Balanced Gameplay<\/h3>\n\n<p>Pharaoh's Fortune is classified as a medium-variance (also called medium-volatility) slot machine by IGT, and this classification has a significant impact on how the game plays in practice. Medium variance means that winning combinations occur with reasonable regularity during the base game, providing a steady stream of smaller wins that help sustain your bankroll between the bigger bonus round payouts. You will not experience the extreme dry spells of a high-volatility slot, nor will you be collecting endless tiny wins without any significant payouts — Pharaoh's Fortune sits in the comfortable middle ground that many online casino players find most enjoyable for extended real money sessions. The guaranteed-win mechanic during the Free Spins round further reinforces this medium-variance profile, ensuring that bonus triggers always deliver meaningful returns rather than disappointing near-misses. This makes the game an excellent choice for players who want genuine excitement without the bankroll pressure of high-variance spinning titles.<\/p>\n\n<h3>How to Maximise Your Experience Playing Pharaoh's Fortune Online<\/h3>\n\n<p>While no betting strategy can alter the mathematically determined outcomes of any certified RNG-powered slot machine, there are sensible approaches to session management that experienced players use to enhance their Pharaoh's Fortune experience and extend their time at the reels.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Set a session bankroll before you start:<\/strong> Given the medium variance of Pharaoh's Fortune, a recommended session bankroll of at least 100–200x your chosen bet size gives you enough spins to realistically trigger the Free Spins bonus round multiple times in a single session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Focus on the pick-em bonus strategy:<\/strong> When selecting stone blocks during the bonus game, remember that 22 of the 30 blocks add free spins while only 5 add to the multiplier. Statistically, you are more likely to accumulate spins than multiplier increases — but the multiplier blocks deliver the greater long-term value in combination with the guaranteed wins on each spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Try the free demo first:<\/strong> Before committing real money, we strongly recommend playing the Pharaoh's Fortune demo version to familiarise yourself with the pick-em bonus mechanics, the free spins symbol set changes, and the general rhythm of the game's win frequency.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Claim a welcome bonus at your chosen online casino:<\/strong> Many top-rated online casinos where Pharaoh's Fortune is available offer welcome bonuses or free spins promotions that can significantly extend your real money play on this title — always check the wagering requirements before claiming any offer.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Respect the $250,000 single-session win cap:<\/strong> IGT has implemented a maximum payout cap of $250,000 per session on Pharaoh's Fortune. While this ceiling is reached only by a tiny fraction of players, it is important to understand that wins above this threshold will not be paid — a consideration for high-rollers placing maximum bets of $450 per spin.<\/li>\n<\/ul>\n\n<h3>Pharaoh's Fortune Bet Limits at a Glance<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #d92019;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Setting<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Value<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Notes<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #2c1605;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Min Bet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$0.15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">All 15 lines<\/td>\n    <\/tr>\n    <tr style=\"background-color: #412411;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Max Bet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$450<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">High roller<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2c1605;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Max Win<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Cap $250,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #412411;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>RTP<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">94.52%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Up to 96.52%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2c1605;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Variance<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Medium<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Balanced wins<\/td>\n    <\/tr>\n    <tr style=\"background-color: #412411;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Paylines<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">15 \/ 20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">20 in bonus<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Responsible Gaming When Playing Pharaoh's Fortune<\/h3>\n\n<p>We take responsible gambling seriously and encourage all players to approach Pharaoh's Fortune — and every other slot in our portfolio — as a form of entertainment rather than a source of income. The game's certified RNG ensures that every spin outcome is completely random and independent of all previous results, meaning there is no pattern to predict or system to exploit. We provide a comprehensive suite of responsible gaming tools including deposit limits, session time reminders, loss limits, self-exclusion programmes, and cooling-off periods to help every player maintain a healthy and enjoyable relationship with online casino gaming. If you ever feel that your gambling is becoming problematic, we strongly encourage you to make use of these tools immediately, or to seek support from organisations such as GamCare, BeGambleAware, or the National Problem Gambling Helpline. Playing within your means is the only guaranteed way to ensure that Pharaoh's Fortune remains the thrilling, atmospheric, and genuinely entertaining ancient Egyptian adventure that IGT designed it to be.<\/p>\n\n<h3>Where Can You Play Pharaoh's Fortune for Real Money?<\/h3>\n\n<p>Pharaoh's Fortune is available at a carefully curated selection of top-rated online casinos worldwide, with particularly strong availability in the United Kingdom, Norway, Finland, and Canada — the four markets where the game consistently achieves its highest SlotRank performance among thousands of competing online slot titles. When choosing where to play Pharaoh's Fortune for real money, we recommend prioritising licensed operators that hold valid gaming licences from reputable regulators such as the UK Gambling Commission (UKGC), the Malta Gaming Authority (MGA), or the Kahnawake Gaming Commission. These licences guarantee that the casino operates under strict fairness and consumer protection standards, that withdrawals are processed promptly, and that your personal and financial data is protected by SSL 256-bit encryption. Additionally, look for casinos that specifically offer the higher RTP configuration of the game — up to 96.52% — as this setting significantly improves the long-term theoretical return on your real money wagers compared to the standard 94.52% default. Many licensed online casinos also offer welcome bonuses, free spins promotions, or cashback deals that can be applied to real money play on Pharaoh's Fortune, further enhancing the overall value of your session with this legendary Egyptian slot machine by IGT.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Pharaoh's Fortune slot by IGT?",
+                            "answer": "The standard RTP of Pharaoh's Fortune is 94.52%, with a configurable range from 92.52% to 96.52% depending on the online casino operator. We recommend playing at casinos offering the highest available RTP setting to maximise your long-term return on every real money spin."
+                        },
+                        {
+                            "title": "How do I trigger the Free Spins bonus in Pharaoh's Fortune?",
+                            "answer": "Land the Scarab scatter symbol on reels 1, 2, and 3 simultaneously to trigger the Free Spins bonus. You will then enter a pick-em stage with 30 stone blocks to choose extra spins and a multiplier up to 6x before the bonus round begins with guaranteed wins on every spin."
+                        },
+                        {
+                            "title": "What is the maximum win in Pharaoh's Fortune slot?",
+                            "answer": "The maximum win in Pharaoh's Fortune is 10,000x your stake, with a hard cap of $250,000 per session set by IGT. The highest single-payline win during Free Spins reaches 4,000x with a 6x multiplier applied. Wild symbol pays 666.66x for five-of-a-kind on any payline."
+                        },
+                        {
+                            "title": "Is Pharaoh's Fortune available on mobile devices?",
+                            "answer": "Yes, Pharaoh's Fortune is fully compatible with all modern mobile devices thanks to its HTML5 technology. It runs smoothly on iOS iPhones, iPads, and Android smartphones and tablets without any downloads required. Desktop players on Windows and macOS enjoy equally seamless performance."
+                        },
+                        {
+                            "title": "Can I play Pharaoh's Fortune for free without registering?",
+                            "answer": "Yes, you can play the Pharaoh's Fortune demo version for free with no registration or deposit required. The free demo uses virtual credits and gives you full access to the pick-em bonus and Free Spins mode, making it the perfect way to learn the game before wagering real money."
+                        },
+                        {
+                            "title": "How volatile is Pharaoh's Fortune and who is it best suited for?",
+                            "answer": "Pharaoh's Fortune has medium variance, making it ideal for players who want a balanced mix of regular smaller wins and exciting bonus round payouts. It suits both casual players on modest budgets (min $0.15\/spin) and high-rollers up to $450\/spin who enjoy classic Egyptian-themed video slots."
+                        },
+                        {
+                            "title": "What online casinos offer Pharaoh's Fortune with the best RTP?",
+                            "answer": "Pharaoh's Fortune is available at 31+ licensed UK casinos and dozens more across Norway, Finland, and Canada. Look for UKGC- or MGA-licensed operators that specify the 96.52% RTP configuration. Our recommended casino list features only verified operators with fair terms and fast withdrawals."
+                        },
+                        {
+                            "title": "What makes Pharaoh's Fortune different from other Egypt slots?",
+                            "answer": "Pharaoh's Fortune stands out thanks to its Las Vegas land-based heritage by IGT, the unique pick-em stone block bonus before Free Spins, and the guaranteed win on every free spin — a rare mechanic not found in most Egypt-themed online slots. Its authentic atmosphere and balanced math model make it a timeless classic."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
